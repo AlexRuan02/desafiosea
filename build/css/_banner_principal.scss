@@ -1,0 +1,32 @@
+.banner {
+    background-image: url(http://localhost:8080/documents/35526/43909/about.png);
+    display: flex;
+    width: 100%;
+    max-width: 1192px;
+    margin: auto;
+    align-items: center;
+    height: 645px;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 5px;
+    img{
+        max-width: none!important;
+        align-self: self-end;
+    
+}
+
+}
+
+.cabeca_banner {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+
+.conteudo-banner {
+    width: 596px;
+    color: white;
+    line-height: 1.375rem;
+}

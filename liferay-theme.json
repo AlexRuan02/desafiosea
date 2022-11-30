@@ -1,0 +1,9 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "/home/alex/desafio-sea/bundles/tomcat-9.0.56",
+    "deployPath": "/home/alex/desafio-sea/bundles/deploy",
+    "deployed": true,
+    "deploymentStrategy": "LocalAppServer",
+    "url": "http://localhost:8080"
+  }
+}

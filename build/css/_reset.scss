@@ -1,0 +1,18 @@
+html:not(#_):not(#_) .overlay-content .open > .cadmin.dropdown-menu {
+    display: block;
+    position: static;
+}
+
+.portlet-borderless .portlet-title-text {
+    display: none;
+}
+
+.container-fluid {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo {
+    flex-grow: 1;
+}
